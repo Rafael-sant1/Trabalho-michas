@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    width: 100%; /*largura*/
+    max-width: 1200px;
+    height: auto; /*altura*/
+    background-color: #f1fc55;
+    margin: 0 0 0 0;
+  
+}
+main{
+    text-align: center;
+    width: auto; /*largura*/
+    max-width: 2500px;
+    height: 250px; /*altura*/
+    background-color: #fc5555;
+    margin: 150px 150px 50px 200px;
+  }
+
+
+
